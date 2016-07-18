@@ -11,6 +11,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'Click>=6.0',
+    'urwid>=1.3.1',
     # TODO: put package requirements here
 ]
 
