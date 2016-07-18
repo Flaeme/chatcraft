@@ -13,7 +13,7 @@ ChatCraft
         :target: https://chatcraft.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/Flaeme/chatcraft/shield.svg
+.. image:: https://pyup.io/repos/github/flaeme/chatcraft/shield.svg
      :target: https://pyup.io/repos/github/Flaeme/chatcraft/
      :alt: Updates
 
